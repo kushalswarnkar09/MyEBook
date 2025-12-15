@@ -7,8 +7,9 @@ This app allows users to access and read eBooks digitally with a simple and clea
 📖 Easy eBook reading experience
 🎨 Clean and user-friendly UI
 ⚡ Fast and lightweight
-🧩 Follows MVVM Architectur
+🧩 Follows MVVM Architecture
 📱 Supports Android devices
+
 
 
 🛠️ Tech Stack:-
@@ -16,6 +17,7 @@ Language: Kotlin, Jetpack Compose
 IDE: Android Studio
 Build Tool: Gradle
 MVVM Architecture + Viewmodel support
+
 
 
 📂 Project Structure:-
@@ -29,3 +31,4 @@ GitHub: kushalswarnkar09
 
 ⭐ Support:-
 If you like this project, please give it a ⭐ on GitHub.
+
