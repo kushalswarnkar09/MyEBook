@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486356340932",
+    "project_id": "ebook-54057",
+    "storage_bucket": "ebook-54057.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486356340932:android:c121b0caba8dfdace13991",
+        "android_client_info": {
+          "package_name": "com.ui.ebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4dAWetQr4gn2iLdGJMJspPOEnZ6iayNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
